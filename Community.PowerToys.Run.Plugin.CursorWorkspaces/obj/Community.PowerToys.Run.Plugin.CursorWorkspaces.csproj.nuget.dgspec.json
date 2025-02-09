@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\codespace\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces.csproj": {}
+  },
+  "projects": {
+    "D:\\codespace\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codespace\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces.csproj",
+        "projectName": "Community.PowerToys.Run.Plugin.CursorWorkspaces",
+        "projectPath": "D:\\codespace\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces.csproj",
+        "packagesPath": "C:\\Users\\nhat\\.nuget\\packages\\",
+        "outputPath": "D:\\codespace\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\Community.PowerToys.Run.Plugin.CursorWorkspaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows10.0.22621": {
+            "targetAlias": "net9.0-windows10.0.22621.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows10.0.22621": {
+          "targetAlias": "net9.0-windows10.0.22621.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Windows.CsWinRT": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.48, 10.0.22621.48]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+              "version": "[9.0.1, 9.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.1, 9.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

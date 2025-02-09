@@ -1,0 +1,14 @@
+{
+  "ID": "B6C9862D3B8A408983C22237E1ECDA17",
+  "Disabled": true,
+  "ActionKeyword": "]",
+  "Name": "CursorWorkspaces",
+  "Author": "ricardosantos9521 - custom for cursor by sunarrior",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "https://aka.ms/PowerToys",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.CursorWorkspaces.dll",
+  "IsGlobal": false,
+  "IcoPathDark": "Images\\code.dark.png",
+  "IcoPathLight": "Images\\code.light.png"
+}
